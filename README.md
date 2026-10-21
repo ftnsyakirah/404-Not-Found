@@ -5,3 +5,6 @@
 - Norhaslin 
 - Batrisyia Amani
 - Mohamad Asyik Illahi
+
+## Contact information
+- Email: fatin.syakirah@graduate.utm.my
