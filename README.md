@@ -6,5 +6,5 @@
 - Batrisyia Amani
 - Mohamad Asyik Illahi
 
-## Contact
+## Contact information
 - Email: fatin.syakirah@graduate.utm.my
